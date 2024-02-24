@@ -1,0 +1,4 @@
+Added 20 gallons of gas.
+Drive: 1 miles
+Added 20 gallons of gas.
+Drive: 399 miles
